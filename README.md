@@ -1,3 +1,3 @@
 # Gree-JS
 
-A simple JavaScript implementation for the Gree protocol for controlling smart air conditioners.
+A reverse engineered JavaScript implementation for smart Air Conditioning Gree protocol.
